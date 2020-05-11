@@ -1,5 +1,5 @@
 package designPattern;
-
+//it is all about draft version
 public class AdapterDesign {
 
 	public static void main(String[] args) {
